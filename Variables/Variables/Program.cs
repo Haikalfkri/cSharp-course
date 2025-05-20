@@ -17,12 +17,13 @@ namespace Variables
             double height = 1.75; // double -> decimal number
             bool isStudent = true; // bool -> true/false
             string name = "John Doe"; // string -> text
-            char initiel = 'J'; // char -> single character with single quotes
+            char initial = 'J'; // char -> single character with single quotes
+
 
             Console.WriteLine(name + " age is " + age);
             Console.WriteLine(name + " height is " + height + "m");
             Console.WriteLine("are " + name + " is student? " + isStudent);
-            Console.WriteLine("initial of " + name + " is " + initiel);
+            Console.WriteLine("initial of " + name + " is " + initial);
         }
     }
 }
