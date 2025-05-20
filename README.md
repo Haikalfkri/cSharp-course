@@ -29,4 +29,4 @@ This repo is structured around topics and projects that help reinforce my learni
 ## 🚀 How to Use This Repo
 Feel free to clone or fork this repository if you’re also learning C#:
 ```bash
-git clone https://github.com/your-username/Learn-CSharp.git
+git clone https://github.com/Haikalfkri/cSharp-course.git
