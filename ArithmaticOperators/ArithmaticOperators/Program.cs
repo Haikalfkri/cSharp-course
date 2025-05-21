@@ -10,7 +10,7 @@ namespace ArithmaticOperators
             // Artihmatic Operators
             // +, -, *, /, %
 
-            int friends = 4;
+            int friends = 10;
 
             //friends = friends + 1;
             //friends += 1;
@@ -26,7 +26,8 @@ namespace ArithmaticOperators
             //friends = friends / 2;
             //friends /= 2;
 
-
+            //friends = friends % 2;
+            //friends %= 2;
 
             Console.WriteLine(friends);
 
